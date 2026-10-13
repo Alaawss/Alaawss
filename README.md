@@ -8,4 +8,4 @@ I bridge the gap between design and development to build digital experiences tha
 
 🎨 UI/UX · 💻 Web & Mobile · 🚀 Always Building
 
-[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](www.linkedin.com/in/alaa-essahih-76a38333a)
+[Portfolio](https://alaaess.vercel.app/) · [LinkedIn](www.linkedin.com/in/alaa-essahih-76a38333a)
